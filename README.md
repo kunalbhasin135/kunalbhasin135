@@ -1,35 +1,33 @@
 # Hi 👋 I'm Kunal Bhasin
 
-### Software Engineer • Game Developer • AI Builder
+### Software Engineer • AI Builder • Game Developer
 
-I’m a developer passionate about building products across **software engineering**, **game development**, and **artificial intelligence**.
+🟢 **Open to new-grad SWE roles (2026)** · UBC '26 · previously SWE Intern @ EBIX · co-founding [Dryft](https://kunal-bhasin-portfolio.vercel.app)
 
-I enjoy creating things that are both technical and interactive—from full-stack applications and intelligent systems to gameplay mechanics and immersive game experiences. My work combines backend engineering, data-driven problem solving, and creative product development.
+I build products end to end — full-stack apps, AI/retrieval systems, and games. Recently: an enterprise RAG pipeline over 19,000+ documents at EBIX, a subscription manager that reads your Gmail so you don't have to, and an ML model that called all four semi-finalists of the 2026 World Cup.
 
-I’m particularly interested in:
+I'm particularly interested in:
 
-* 💻 Software Engineering & Backend Development
+* 💻 Backend & Full-Stack Engineering
+* 🧠 AI / ML Applications — RAG, search, retrieval
+* 📊 Data Systems & Analytics
 * 🎮 Gameplay Programming & Game Systems
-* 🧠 AI / Machine Learning Applications
-* 📊 Data Systems, Search, and Analytics
 
 ---
 
 ## Skills
 
 ### Languages
-
-[![My Skills](https://skillicons.dev/icons?i=python,cs,js,ts,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,js,cs,java,dart,mysql)](https://skillicons.dev)
 
 ### Frameworks & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,fastapi,spring,unity,godot,blender,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,fastapi,flutter,nodejs,docker,supabase,unity,godot,blender,git,github)](https://skillicons.dev)
 
 ### AI / Data
-
-[![My Skills](https://skillicons.dev/icons?i=pytorch,mongodb)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn)](https://skillicons.dev)
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-1a7f37?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
@@ -37,30 +35,29 @@ I’m particularly interested in:
 
 ## Key Projects
 
-### ⚽ World Cup 2026 Match Predictor
+### 💳 Dryft — Subscription Manager *(Technical Co-Founder)*
+Cross-platform app that connects to Gmail and auto-detects recurring charges with 15+ search strategies and per-detection confidence scoring — zero manual entry. Flutter · Supabase · Gmail API. Pre-release, 80 beta users.
+**[▶ Watch the demo](https://kunal-bhasin-portfolio.vercel.app)**
 
-AI-powered football analytics platform that predicts match outcomes using historical data, recent form, tactical analysis, and explainable prediction insights.
+### ⚽ World Cup 2026 Match Predictor
+Three ML models trained on ~49k international matches, a 48-team Monte Carlo tournament engine, and a React UI. **The model correctly predicted all four semi-finalists and both finalists of the real 2026 World Cup.**
+**[View repo →](https://github.com/kunalbhasin135/World_Cup_2026_Predictor)**
+
+### 🧠 Semantic Search & AI Retrieval *(built at EBIX — proprietary)*
+Production RAG pipeline over 19,000+ enterprise medical documents: XML→JSON normalization, chunking, embeddings, FAISS retrieval, and local LLM inference (Qwen via Hugging Face), served through FastAPI to other engineering teams.
 
 ### 🎮 Duo Split
-
-A Unity endless runner featuring a unique dual-control mechanic with opposite gravity movement and dynamic speed scaling.
+Unity endless runner where one input controls two characters under opposite gravity — procedural spawning keeps every level solvable for both.
+**[🕹 Play in browser](https://kunalb20.itch.io/duo-split)** · **[View repo →](https://github.com/kunalbhasin135/DuoSplit)**
 
 ### 👁️ Wrong Floor
-
-A narrative horror game built during a game jam, focused on atmosphere, tension, and environmental storytelling through level design and player exploration.
-
-Play here: https://kunalb20.itch.io/wrong-floor
-
-### 🧠 Semantic Search & AI Retrieval System
-
-Built a semantic search pipeline using FAISS, LLMs, SQL Server, and XML-to-JSON processing to generate contextual answers from large structured datasets.
+Narrative horror built in Godot during a game jam — atmosphere and environmental storytelling over jump scares. Shipping in both Unity and Godot, with Blender for assets.
+**[🕹 Play in browser](https://kunalb20.itch.io/wrong-floor)**
 
 ---
 
 ## Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/kunal-bhasin-4122a62b9/
-
-🌐 Portfolio: https://kunal-bhasin-portfolio.vercel.app
-
+🌐 Portfolio: **[kunal-bhasin-portfolio.vercel.app](https://kunal-bhasin-portfolio.vercel.app)**
+💼 LinkedIn: [linkedin.com/in/kunal-bhasin-4122a62b9](https://www.linkedin.com/in/kunal-bhasin-4122a62b9/)
 📫 Email: **[kunalbhasin37@gmail.com](mailto:kunalbhasin37@gmail.com)**
