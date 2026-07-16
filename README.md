@@ -37,7 +37,7 @@ I'm particularly interested in:
 
 ### 💳 Dryft — Subscription Manager *(Technical Co-Founder)*
 Cross-platform app that connects to Gmail and auto-detects recurring charges with 15+ search strategies and per-detection confidence scoring — zero manual entry. Flutter · Supabase · Gmail API. Pre-release, 80 beta users.
-**[▶ Watch the demo](https://kunal-bhasin-portfolio.vercel.app)**
+**[View repo + demo →](https://github.com/kunalbhasin135/dryft)** · **[Portfolio](https://kunal-bhasin-portfolio.vercel.app)**
 
 ### ⚽ World Cup 2026 Match Predictor
 Three ML models trained on ~49k international matches, a 48-team Monte Carlo tournament engine, and a React UI. **The model correctly predicted all four semi-finalists and both finalists of the real 2026 World Cup.**
