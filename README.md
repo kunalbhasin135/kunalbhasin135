@@ -59,8 +59,8 @@ Built a semantic search pipeline using FAISS, LLMs, SQL Server, and XML-to-JSON 
 
 ## Connect With Me
 
-💼 LinkedIn: [Add your LinkedIn URL]
+💼 LinkedIn: (https://www.linkedin.com/in/kunal-bhasin-4122a62b9/)
 
-🌐 Portfolio: [Coming Soon]
+🌐 Portfolio: https://kunal-bhasin-portfolio.vercel.app
 
 📫 Email: **[kunalbhasin37@gmail.com](mailto:kunalbhasin37@gmail.com)**
